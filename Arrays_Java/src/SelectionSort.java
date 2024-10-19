@@ -1,4 +1,3 @@
-
 //Hint ---> Find minimum and immediate swap
 
 import java.util.Arrays;
@@ -26,7 +25,6 @@ public class SelectionSort
 			arr[min] = temp;
 		}
 		System.out.println("After sorting: "+Arrays.toString(arr));
-
 	}
 
 }
